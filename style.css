@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+.cabecalho {
+   height: 100vh;
+}
+
+body {
+    background-color: #E8DAB2;
+}
+
+.escrito-inicial {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.bem-vindo {
+    font-size: 26px;
+    font-family: 'Raleway',sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.petshop {
+    margin-top: 5px;
+    font-size: 52px;
+    font-family: 'Raleway',sans-serif;
+    font-weight: bold;
+}
+
+.salsichinha {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    width: 370px;
+    height: 190px; 
+}
+
+.informativo {
+    width: 800px;
+    border: 1px solid black;
+    background-color: white;
+    margin: auto;
+}
+
+.hotdog {
+    width: calc(100%-30px);
+}
+
+.titulo {
+    background-color: white;
+}
+
+
+
+
